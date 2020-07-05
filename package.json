@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec babel-node src/index.js",
+    "build": "babel src/namespace.js -d dist",
     "test": "mocha"
   },
   "repository": {

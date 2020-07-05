@@ -30,4 +30,3 @@ const namespace = (...namespaces) => {
 };
 
 module.exports = namespace;
-
