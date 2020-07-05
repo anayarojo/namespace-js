@@ -2,7 +2,7 @@
   "name": "namespace-js",
   "version": "1.0.0",
   "description": "Library for create namespaces in javascript.",
-  "main": "index.js",
+  "main": "dist/namespace.js",
   "scripts": {
     "dev": "nodemon --exec babel-node src/index.js",
     "build": "babel src/namespace.js -d dist",
