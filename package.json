@@ -1,6 +1,6 @@
 {
-  "name": "namespace-js",
-  "version": "1.0.0",
+  "name": "anayarojo-namespace-js",
+  "version": "1.0.1",
   "description": "Library for create namespaces in javascript.",
   "main": "dist/namespace.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "javascript",
     "js"
   ],
-  "author": "anayarojo",
+  "author": "Raul Anaya <raulmartin_04@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/anayarojo/namespace-js/issues"

@@ -1,2 +1,12 @@
-# namespace-js
-Library for create namespaces in javascript
+# Namespace JS
+Library for create namespaces in javascript.
+
+### Installation
+
+```bach
+npm i anayarojo-namespace-js
+```
+
+
+
+
