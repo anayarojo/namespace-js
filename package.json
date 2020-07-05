@@ -1,6 +1,6 @@
 {
   "name": "anayarojo-namespace-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for create namespaces in javascript.",
   "main": "dist/namespace.js",
   "scripts": {
@@ -24,9 +24,6 @@
     "url": "https://github.com/anayarojo/namespace-js/issues"
   },
   "homepage": "https://github.com/anayarojo/namespace-js#readme",
-  "publishConfig": { 
-    "registry":"https://npm.pkg.github.com/"
-  },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
