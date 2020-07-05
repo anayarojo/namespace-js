@@ -24,6 +24,9 @@
     "url": "https://github.com/anayarojo/namespace-js/issues"
   },
   "homepage": "https://github.com/anayarojo/namespace-js#readme",
+  "publishConfig": { 
+    "registry": "https://www.npmjs.com/package/anayarojo-namespace-js" 
+  },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
